@@ -17149,3 +17149,32 @@
 2024-12-12T04:10:35.810Z - - ID: 10158, Time: 218s, State: , Info: null
 2024-12-12T04:10:35.810Z - - ID: 10159, Time: 216s, State: , Info: null
 2024-12-12T04:10:35.810Z - - ID: 10160, Time: 61s, State: , Info: null
+2024-12-12T08:11:17.798Z - 데이터베이스 연결 복구됨
+2024-12-12T08:11:17.801Z - 데이터베이스 연결 성공
+2024-12-12T08:11:17.824Z - 상태 업데이트 - 활성 연결: 13, 프로세스: 14, 슬로우 쿼리: 13
+2024-12-12T08:11:17.824Z - - ID: 5, Time: 1062254s, State: Waiting on empty queue, Info: null
+2024-12-12T08:11:17.824Z - - ID: 8, Time: 11s, State: , Info: null
+2024-12-12T08:11:17.824Z - - ID: 10105, Time: 21379s, State: , Info: null
+2024-12-12T08:11:17.824Z - - ID: 10168, Time: 13143s, State: , Info: null
+2024-12-12T08:11:17.824Z - - ID: 10169, Time: 13141s, State: , Info: null
+2024-12-12T08:11:17.824Z - - ID: 10170, Time: 6168s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10251, Time: 23s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10254, Time: 1404s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10255, Time: 1202s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10256, Time: 1166s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10258, Time: 836s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10261, Time: 425s, State: , Info: null
+2024-12-12T08:11:17.825Z - - ID: 10262, Time: 192s, State: , Info: null
+2024-12-12T08:11:23.825Z - 상태 업데이트 - 활성 연결: 13, 프로세스: 14, 슬로우 쿼리: 12
+2024-12-12T08:11:23.826Z - - ID: 5, Time: 1062260s, State: Waiting on empty queue, Info: null
+2024-12-12T08:11:23.826Z - - ID: 10105, Time: 21385s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10168, Time: 13149s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10169, Time: 13147s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10170, Time: 6174s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10251, Time: 29s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10254, Time: 1410s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10255, Time: 1208s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10256, Time: 1172s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10258, Time: 842s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10261, Time: 431s, State: , Info: null
+2024-12-12T08:11:23.826Z - - ID: 10262, Time: 198s, State: , Info: null

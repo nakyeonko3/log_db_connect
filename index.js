@@ -23,7 +23,15 @@ const pool = mysql.createPool({
 // 프로미스 래퍼 생성 (재사용)
 const promisePool = pool.promise();
 
+const PORT = process.env.PORT || 3000;
+app.use(express.static("public")); // public 폴더 안에 html 파일들 위치
+// 또는
 app.use(express.static(path.join(__dirname, "public")));
+
+// 루트 경로로 접근시 index.html 보여주기
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
 
 const logStream = fs.createWriteStream("db_status.log", { flags: "a" });
 let lastStatus = null;
@@ -181,7 +189,6 @@ io.on("connection", (socket) => {
   });
 });
 
-const PORT = process.env.PORT || 3000;
 http.listen(PORT, () => {
   console.log(`서버가 포트 ${PORT}에서 실행중입니다`);
 });
