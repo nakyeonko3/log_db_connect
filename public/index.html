@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <title>Real-time Database Monitor</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -121,46 +120,48 @@
         margin-top: 5px;
       }
     </style>
-  </head>
-  <body>
-    <div class="dashboard">
-      <div class="status-card">
-        <div class="status-header">
-          <h1 class="status-title">Database Connection Monitor</h1>
-          <div id="connection-status" class="status-indicator status-good">
-            <div class="pulse"></div>
-            <span>Connected</span>
-          </div>
-        </div>
-        <div class="metric-grid">
-          <div class="metric-item">
-            <div class="metric-value" id="active-connections">0</div>
-            <div class="metric-label">Active Connections</div>
-          </div>
-          <div class="metric-item">
-            <div class="metric-value" id="total-processes">0</div>
-            <div class="metric-label">Total Processes</div>
-          </div>
-          <div class="metric-item">
-            <div class="metric-value" id="slow-queries">0</div>
-            <div class="metric-label">Slow Queries</div>
-          </div>
-          <div class="metric-item">
-            <div class="metric-value" id="max-connections">0</div>
-            <div class="metric-label">Max Connections</div>
-          </div>
-        </div>
-        <div class="last-update" id="last-update"></div>
-      </div>
-
-      <div class="status-card">
-        <h2>Connection Logs</h2>
-        <div id="log-container" class="log-container"></div>
-      </div>
-    </div>
-
     <script>
-      const socket = io();
+      if (!!window.EventSource) {
+        const source = new EventSource("/events");
+
+        source.addEventListener(
+          "db-status",
+          function (event) {
+            const data = JSON.parse(event.data);
+            updateMetrics(data);
+          },
+          false
+        );
+
+        source.addEventListener(
+          "db-log",
+          function (event) {
+            addLog(event.data);
+          },
+          false
+        );
+
+        source.addEventListener(
+          "open",
+          function (event) {
+            updateStatus("connected");
+          },
+          false
+        );
+
+        source.addEventListener(
+          "error",
+          function (event) {
+            if (event.eventPhase == EventSource.CLOSED) {
+              updateStatus("disconnected");
+            }
+          },
+          false
+        );
+      } else {
+        console.error("Your browser doesn't support SSE");
+      }
+
       let lastData = {};
 
       function updateStatus(status) {
@@ -213,7 +214,7 @@
         lastUpdateEl.textContent = `Last updated: ${date.toLocaleTimeString()}`;
       }
 
-      socket.on("db-status", (data) => {
+      function updateMetrics(data) {
         updateMetric("active-connections", data.activeConnections);
         updateMetric("total-processes", data.totalProcesses);
         updateMetric("slow-queries", data.slowQueries);
@@ -222,20 +223,44 @@
         if (data.timestamp) {
           updateLastUpdateTime(data.timestamp);
         }
-      });
-
-      socket.on("db-log", (message) => {
-        addLog(message);
-      });
-
-      // 연결 상태 표시
-      socket.on("connect", () => {
-        updateStatus("connected");
-      });
-
-      socket.on("disconnect", () => {
-        updateStatus("disconnected");
-      });
+      }
     </script>
+  </head>
+  <body>
+    <div class="dashboard">
+      <div class="status-card">
+        <div class="status-header">
+          <h1 class="status-title">Database Connection Monitor</h1>
+          <div id="connection-status" class="status-indicator status-good">
+            <div class="pulse"></div>
+            <span>Connected</span>
+          </div>
+        </div>
+        <div class="metric-grid">
+          <div class="metric-item">
+            <div class="metric-value" id="active-connections">0</div>
+            <div class="metric-label">Active Connections</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="total-processes">0</div>
+            <div class="metric-label">Total Processes</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="slow-queries">0</div>
+            <div class="metric-label">Slow Queries</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="max-connections">0</div>
+            <div class="metric-label">Max Connections</div>
+          </div>
+        </div>
+        <div class="last-update" id="last-update"></div>
+      </div>
+
+      <div class="status-card">
+        <h2>Connection Logs</h2>
+        <div id="log-container" class="log-container"></div>
+      </div>
+    </div>
   </body>
 </html>

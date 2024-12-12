@@ -3,8 +3,8 @@ const mysql = require("mysql2");
 const fs = require("fs");
 const path = require("path");
 const app = express();
-const http = require("http").createServer(app);
-const io = require("socket.io")(http);
+// const http = require("http").createServer(app);
+// const io = require("socket.io")(http);
 
 require("dotenv").config();
 
@@ -36,12 +36,19 @@ app.get("/", (req, res) => {
 const logStream = fs.createWriteStream("db_status.log", { flags: "a" });
 let lastStatus = null;
 let isConnected = false;
+let clients = [];
 
 function logToFile(message) {
   const timestamp = new Date().toISOString();
-  const logMessage = `${timestamp} - ${message}\n`;
+  const logMessage = `${timestamp} - ${message}`;
   logStream.write(logMessage);
-  io.emit("db-log", logMessage);
+  broadcastEvent("db-log", logMessage);
+}
+
+function broadcastEvent(event, data) {
+  clients.forEach((client) =>
+    client.res.write(`event: ${event}\ndata: ${JSON.stringify(data)}\n\n`)
+  );
 }
 
 // 재연결 메커니즘
@@ -77,8 +84,8 @@ async function checkDatabaseStatus() {
     // 연결 상태 확인
     if (!(await ensureConnection())) {
       status.status = "disconnected";
-      io.emit("db-status", status);
-      return;
+      broadcastEvent("db-status", status);
+      return status;
     }
 
     // 모든 쿼리를 하나의 트랜잭션으로 실행
@@ -116,15 +123,14 @@ async function checkDatabaseStatus() {
 
         if (status.slowQueries > 0) {
           longRunningQueries.forEach((q) => {
-            logToFile(
-              `- ID: ${q.Id}, Time: ${q.Time}s, State: ${q.State}, Info: ${q.Info}`
-            );
+            logToFile(`ID: ${q.Id}, Time: ${q.Time}s, State: ${q.State}`);
+            console.log("Slow query detected:", q);
           });
         }
       }
 
       lastStatus = status;
-      io.emit("db-status", status);
+      broadcastEvent("db-status", status);
     } finally {
       // 반드시 커넥션을 풀에 반환
       connection.release();
@@ -133,9 +139,10 @@ async function checkDatabaseStatus() {
     logToFile(`상태 확인 중 에러: ${err.message}`);
     status.status = "disconnected";
     isConnected = false;
-    io.emit("db-status", status);
+    broadcastEvent("db-status", status);
     stopMonitoring();
   }
+  return status;
 }
 
 let monitoringInterval;
@@ -168,7 +175,7 @@ ensureConnection()
 
 // 풀 에러 처리
 pool.on("error", (err) => {
-  logToFile(`데이터베이스 풀 에러 발생: ${err.message}`);
+  logToFile(`데이터베이스 풀 에러 발���: ${err.message}`);
   isConnected = false;
   stopMonitoring();
 
@@ -178,18 +185,20 @@ pool.on("error", (err) => {
   }, 5000);
 });
 
-io.on("connection", (socket) => {
-  console.log("클라이언트 연결됨");
-  if (lastStatus) {
-    socket.emit("db-status", lastStatus);
-  }
+app.get("/events", (req, res) => {
+  res.setHeader("Content-Type", "text/event-stream");
+  res.setHeader("Cache-Control", "no-cache");
+  res.setHeader("Connection", "keep-alive");
+  res.flushHeaders();
 
-  socket.on("disconnect", () => {
-    console.log("클라이언트 연결 해제");
+  clients.push({ req, res });
+
+  req.on("close", () => {
+    clients = clients.filter((client) => client.res !== res);
   });
 });
 
-http.listen(PORT, () => {
+app.listen(PORT, () => {
   console.log(`서버가 포트 ${PORT}에서 실행중입니다`);
 });
 
