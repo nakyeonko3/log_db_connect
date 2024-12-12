@@ -1,0 +1,13 @@
+# .github/workflows/ping.yml
+name: Ping Server
+
+on:
+  schedule:
+    - cron: '*/14 * * * *'  # 14분마다
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping render server
+        run: curl https://log-db-connect.onrender.com/
