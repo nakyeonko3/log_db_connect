@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Database Connection Monitor</title>
+    <title>Real-time Database Monitor</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
     <style>
       body {
@@ -35,6 +35,9 @@
         padding: 5px 10px;
         border-radius: 15px;
         font-size: 14px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
       }
       .status-good {
         background-color: #e6ffe6;
@@ -72,15 +75,49 @@
         padding: 15px;
         border-radius: 8px;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
       }
       .metric-value {
         font-size: 24px;
         font-weight: bold;
         color: #2c5282;
+        transition: color 0.3s ease;
       }
       .metric-label {
         color: #666;
         font-size: 14px;
+        margin-top: 5px;
+      }
+      .metric-item.highlight {
+        background: #f0f9ff;
+      }
+      .metric-item.highlight .metric-value {
+        color: #1a56db;
+      }
+      .pulse {
+        width: 8px;
+        height: 8px;
+        background-color: currentColor;
+        border-radius: 50%;
+        animation: pulse 2s infinite;
+      }
+      @keyframes pulse {
+        0% {
+          transform: scale(0.95);
+          opacity: 0.5;
+        }
+        50% {
+          transform: scale(1.1);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(0.95);
+          opacity: 0.5;
+        }
+      }
+      .last-update {
+        font-size: 12px;
+        color: #666;
         margin-top: 5px;
       }
     </style>
@@ -91,7 +128,8 @@
         <div class="status-header">
           <h1 class="status-title">Database Connection Monitor</h1>
           <div id="connection-status" class="status-indicator status-good">
-            Connected
+            <div class="pulse"></div>
+            <span>Connected</span>
           </div>
         </div>
         <div class="metric-grid">
@@ -112,6 +150,7 @@
             <div class="metric-label">Max Connections</div>
           </div>
         </div>
+        <div class="last-update" id="last-update"></div>
       </div>
 
       <div class="status-card">
@@ -122,6 +161,7 @@
 
     <script>
       const socket = io();
+      let lastData = {};
 
       function updateStatus(status) {
         const statusEl = document.getElementById("connection-status");
@@ -129,10 +169,12 @@
 
         if (status === "connected") {
           statusEl.classList.add("status-good");
-          statusEl.textContent = "Connected";
+          statusEl.innerHTML =
+            '<div class="pulse"></div><span>Connected</span>';
         } else {
           statusEl.classList.add("status-error");
-          statusEl.textContent = "Disconnected";
+          statusEl.innerHTML =
+            '<div class="pulse"></div><span>Disconnected</span>';
         }
       }
 
@@ -143,25 +185,56 @@
         entry.textContent = message;
         container.insertBefore(entry, container.firstChild);
 
-        // 최대 100개의 로그만 유지
         while (container.children.length > 100) {
           container.removeChild(container.lastChild);
         }
       }
 
+      function highlightChange(elementId, newValue) {
+        const element = document.getElementById(elementId).parentElement;
+        element.classList.add("highlight");
+        setTimeout(() => {
+          element.classList.remove("highlight");
+        }, 1000);
+      }
+
+      function updateMetric(id, newValue) {
+        const element = document.getElementById(id);
+        if (lastData[id] !== newValue) {
+          highlightChange(id, newValue);
+        }
+        element.textContent = newValue;
+        lastData[id] = newValue;
+      }
+
+      function updateLastUpdateTime(timestamp) {
+        const lastUpdateEl = document.getElementById("last-update");
+        const date = new Date(timestamp);
+        lastUpdateEl.textContent = `Last updated: ${date.toLocaleTimeString()}`;
+      }
+
       socket.on("db-status", (data) => {
-        document.getElementById("active-connections").textContent =
-          data.activeConnections;
-        document.getElementById("total-processes").textContent =
-          data.totalProcesses;
-        document.getElementById("slow-queries").textContent = data.slowQueries;
-        document.getElementById("max-connections").textContent =
-          data.maxConnections;
+        updateMetric("active-connections", data.activeConnections);
+        updateMetric("total-processes", data.totalProcesses);
+        updateMetric("slow-queries", data.slowQueries);
+        updateMetric("max-connections", data.maxConnections);
         updateStatus(data.status);
+        if (data.timestamp) {
+          updateLastUpdateTime(data.timestamp);
+        }
       });
 
       socket.on("db-log", (message) => {
         addLog(message);
+      });
+
+      // 연결 상태 표시
+      socket.on("connect", () => {
+        updateStatus("connected");
+      });
+
+      socket.on("disconnect", () => {
+        updateStatus("disconnected");
       });
     </script>
   </body>
