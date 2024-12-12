@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping render server
-        run: curl https://log-db-connect.onrender.com/
+        run: curl https://api.popomance.kr/workspace/projects
