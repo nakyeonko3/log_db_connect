@@ -15967,3 +15967,1185 @@
 2024-12-12T03:54:15.956Z - - ID: 10139, Time: 1033s, State: , Info: null
 2024-12-12T03:54:15.956Z - - ID: 10140, Time: 872s, State: , Info: null
 2024-12-12T03:54:15.956Z - - ID: 10150, Time: 329s, State: , Info: null
+2024-12-12T03:54:26.130Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:54:26.131Z - - ID: 5, Time: 1046841s, State: Waiting on empty queue, Info: null
+2024-12-12T03:54:26.131Z - - ID: 10092, Time: 7817s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10105, Time: 5966s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10132, Time: 88s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10138, Time: 1048s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10139, Time: 1043s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10140, Time: 882s, State: , Info: null
+2024-12-12T03:54:26.131Z - - ID: 10150, Time: 339s, State: , Info: null
+2024-12-12T03:54:29.131Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:54:29.131Z - - ID: 5, Time: 1046844s, State: Waiting on empty queue, Info: null
+2024-12-12T03:54:29.131Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10092, Time: 7820s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10105, Time: 5969s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10132, Time: 91s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10138, Time: 1051s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10139, Time: 1046s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10140, Time: 885s, State: , Info: null
+2024-12-12T03:54:29.131Z - - ID: 10150, Time: 342s, State: , Info: null
+2024-12-12T03:54:35.138Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:54:35.138Z - - ID: 5, Time: 1046850s, State: Waiting on empty queue, Info: null
+2024-12-12T03:54:35.138Z - - ID: 10092, Time: 7826s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10105, Time: 5975s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10132, Time: 97s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10138, Time: 1057s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10139, Time: 1052s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10140, Time: 891s, State: , Info: null
+2024-12-12T03:54:35.138Z - - ID: 10150, Time: 348s, State: , Info: null
+2024-12-12T03:54:44.143Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:54:44.144Z - - ID: 5, Time: 1046859s, State: Waiting on empty queue, Info: null
+2024-12-12T03:54:44.144Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10092, Time: 7835s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10105, Time: 5984s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10132, Time: 106s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10138, Time: 1066s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10139, Time: 1061s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10140, Time: 900s, State: , Info: null
+2024-12-12T03:54:44.144Z - - ID: 10150, Time: 357s, State: , Info: null
+2024-12-12T03:54:53.147Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:54:53.148Z - - ID: 5, Time: 1046869s, State: Waiting on empty queue, Info: null
+2024-12-12T03:54:53.148Z - - ID: 10092, Time: 7845s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10105, Time: 5994s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10132, Time: 116s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10138, Time: 1076s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10139, Time: 1071s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10140, Time: 910s, State: , Info: null
+2024-12-12T03:54:53.148Z - - ID: 10150, Time: 367s, State: , Info: null
+2024-12-12T03:55:15.310Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:55:15.310Z - - ID: 5, Time: 1046891s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:15.310Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10092, Time: 7867s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10105, Time: 6016s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10132, Time: 138s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10138, Time: 1098s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10139, Time: 1093s, State: , Info: null
+2024-12-12T03:55:15.310Z - - ID: 10140, Time: 932s, State: , Info: null
+2024-12-12T03:55:15.311Z - - ID: 10150, Time: 389s, State: , Info: null
+2024-12-12T03:55:24.813Z - 데이터베이스 연결 복구됨
+2024-12-12T03:55:24.814Z - 데이터베이스 연결 성공
+2024-12-12T03:55:24.832Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:55:24.832Z - - ID: 5, Time: 1046900s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:24.833Z - - ID: 10092, Time: 7876s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10105, Time: 6025s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10132, Time: 147s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10138, Time: 1107s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10139, Time: 1102s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10140, Time: 941s, State: , Info: null
+2024-12-12T03:55:24.833Z - - ID: 10150, Time: 398s, State: , Info: null
+2024-12-12T03:55:32.014Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:55:32.015Z - - ID: 5, Time: 1046907s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:32.015Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10092, Time: 7883s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10105, Time: 6032s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10132, Time: 154s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10138, Time: 1114s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10139, Time: 1109s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10140, Time: 948s, State: , Info: null
+2024-12-12T03:55:32.015Z - - ID: 10150, Time: 405s, State: , Info: null
+2024-12-12T03:55:35.013Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:55:35.014Z - - ID: 5, Time: 1046910s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:35.014Z - - ID: 10092, Time: 7886s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10105, Time: 6035s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10132, Time: 157s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10138, Time: 1117s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10139, Time: 1112s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10140, Time: 951s, State: , Info: null
+2024-12-12T03:55:35.014Z - - ID: 10150, Time: 408s, State: , Info: null
+2024-12-12T03:55:44.022Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:55:44.022Z - - ID: 5, Time: 1046919s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:44.022Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10092, Time: 7895s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10105, Time: 6044s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10132, Time: 166s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10138, Time: 1126s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10139, Time: 1121s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10140, Time: 960s, State: , Info: null
+2024-12-12T03:55:44.022Z - - ID: 10150, Time: 417s, State: , Info: null
+2024-12-12T03:55:53.031Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:55:53.031Z - - ID: 5, Time: 1046928s, State: Waiting on empty queue, Info: null
+2024-12-12T03:55:53.031Z - - ID: 10092, Time: 7904s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10105, Time: 6053s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10132, Time: 175s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10138, Time: 1135s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10139, Time: 1130s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10140, Time: 969s, State: , Info: null
+2024-12-12T03:55:53.031Z - - ID: 10150, Time: 426s, State: , Info: null
+2024-12-12T03:56:06.147Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T03:56:06.148Z - - ID: 5, Time: 1046941s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:06.148Z - - ID: 10092, Time: 7917s, State: , Info: null
+2024-12-12T03:56:06.148Z - - ID: 10105, Time: 6066s, State: , Info: null
+2024-12-12T03:56:06.148Z - - ID: 10139, Time: 1143s, State: , Info: null
+2024-12-12T03:56:06.148Z - - ID: 10140, Time: 982s, State: , Info: null
+2024-12-12T03:56:06.148Z - - ID: 10150, Time: 439s, State: , Info: null
+2024-12-12T03:56:12.152Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:56:12.152Z - - ID: 5, Time: 1046947s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:12.152Z - - ID: 10092, Time: 7923s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10105, Time: 6072s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10139, Time: 1149s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10140, Time: 988s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10150, Time: 445s, State: , Info: null
+2024-12-12T03:56:12.152Z - - ID: 10154, Time: 8s, State: , Info: null
+2024-12-12T03:56:15.158Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:56:15.158Z - - ID: 5, Time: 1046950s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:15.158Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10092, Time: 7926s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10105, Time: 6075s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10138, Time: 10s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10139, Time: 1152s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10140, Time: 991s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10150, Time: 448s, State: , Info: null
+2024-12-12T03:56:15.159Z - - ID: 10154, Time: 11s, State: , Info: null
+2024-12-12T03:56:24.163Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:56:24.163Z - - ID: 5, Time: 1046959s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:24.163Z - - ID: 10092, Time: 7935s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10105, Time: 6084s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10138, Time: 19s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10139, Time: 1161s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10140, Time: 1000s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10150, Time: 457s, State: , Info: null
+2024-12-12T03:56:24.163Z - - ID: 10154, Time: 20s, State: , Info: null
+2024-12-12T03:56:30.166Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:56:30.166Z - - ID: 5, Time: 1046966s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:30.166Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10092, Time: 7942s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10105, Time: 6091s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10138, Time: 26s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10139, Time: 1168s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10140, Time: 1007s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10150, Time: 464s, State: , Info: null
+2024-12-12T03:56:30.166Z - - ID: 10154, Time: 27s, State: , Info: null
+2024-12-12T03:56:33.167Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:56:33.167Z - - ID: 5, Time: 1046969s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:33.167Z - - ID: 10092, Time: 7945s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10105, Time: 6094s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10138, Time: 29s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10139, Time: 1171s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10140, Time: 1010s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10150, Time: 467s, State: , Info: null
+2024-12-12T03:56:33.167Z - - ID: 10154, Time: 30s, State: , Info: null
+2024-12-12T03:56:46.333Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:56:46.333Z - - ID: 5, Time: 1046981s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:46.333Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10092, Time: 7957s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10105, Time: 6106s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10138, Time: 41s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10139, Time: 1183s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10140, Time: 1022s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10150, Time: 479s, State: , Info: null
+2024-12-12T03:56:46.333Z - - ID: 10154, Time: 42s, State: , Info: null
+2024-12-12T03:56:55.339Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:56:55.339Z - - ID: 5, Time: 1046991s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:55.339Z - - ID: 10092, Time: 7967s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10105, Time: 6116s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10138, Time: 51s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10139, Time: 1193s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10140, Time: 1032s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10150, Time: 489s, State: , Info: null
+2024-12-12T03:56:55.339Z - - ID: 10154, Time: 52s, State: , Info: null
+2024-12-12T03:56:58.340Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:56:58.341Z - - ID: 5, Time: 1046994s, State: Waiting on empty queue, Info: null
+2024-12-12T03:56:58.341Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10092, Time: 7970s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10105, Time: 6119s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10138, Time: 54s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10139, Time: 1196s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10140, Time: 1035s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10150, Time: 492s, State: , Info: null
+2024-12-12T03:56:58.341Z - - ID: 10154, Time: 55s, State: , Info: null
+2024-12-12T03:57:01.342Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:57:01.343Z - - ID: 5, Time: 1046997s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:01.343Z - - ID: 10092, Time: 7973s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10105, Time: 6122s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10138, Time: 57s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10139, Time: 1199s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10140, Time: 1038s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10150, Time: 495s, State: , Info: null
+2024-12-12T03:57:01.343Z - - ID: 10154, Time: 58s, State: , Info: null
+2024-12-12T03:57:14.535Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:57:14.535Z - - ID: 5, Time: 1047009s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:14.535Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10092, Time: 7985s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10105, Time: 6134s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10138, Time: 69s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10139, Time: 1211s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10140, Time: 1050s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10150, Time: 507s, State: , Info: null
+2024-12-12T03:57:14.535Z - - ID: 10154, Time: 70s, State: , Info: null
+2024-12-12T03:57:23.541Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:57:23.541Z - - ID: 5, Time: 1047019s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:23.541Z - - ID: 10092, Time: 7995s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10105, Time: 6144s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10138, Time: 79s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10139, Time: 1221s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10140, Time: 1060s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10150, Time: 517s, State: , Info: null
+2024-12-12T03:57:23.541Z - - ID: 10154, Time: 80s, State: , Info: null
+2024-12-12T03:57:29.542Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:57:29.542Z - - ID: 5, Time: 1047025s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:29.542Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T03:57:29.542Z - - ID: 10092, Time: 8001s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10105, Time: 6150s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10138, Time: 85s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10139, Time: 1227s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10140, Time: 1066s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10150, Time: 523s, State: , Info: null
+2024-12-12T03:57:29.543Z - - ID: 10154, Time: 86s, State: , Info: null
+2024-12-12T03:57:32.544Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:57:32.544Z - - ID: 5, Time: 1047028s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:32.544Z - - ID: 10092, Time: 8004s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10105, Time: 6153s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10138, Time: 88s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10139, Time: 1230s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10140, Time: 1069s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10150, Time: 526s, State: , Info: null
+2024-12-12T03:57:32.544Z - - ID: 10154, Time: 89s, State: , Info: null
+2024-12-12T03:57:45.738Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:57:45.738Z - - ID: 5, Time: 1047040s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:45.738Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10092, Time: 8016s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10105, Time: 6165s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10138, Time: 100s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10139, Time: 1242s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10140, Time: 1081s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10150, Time: 538s, State: , Info: null
+2024-12-12T03:57:45.738Z - - ID: 10154, Time: 101s, State: , Info: null
+2024-12-12T03:57:54.748Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:57:54.748Z - - ID: 5, Time: 1047050s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:54.748Z - - ID: 10092, Time: 8026s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10105, Time: 6175s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10138, Time: 110s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10139, Time: 1252s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10140, Time: 1091s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10150, Time: 548s, State: , Info: null
+2024-12-12T03:57:54.748Z - - ID: 10154, Time: 111s, State: , Info: null
+2024-12-12T03:57:57.749Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T03:57:57.749Z - - ID: 5, Time: 1047053s, State: Waiting on empty queue, Info: null
+2024-12-12T03:57:57.749Z - - ID: 10092, Time: 8029s, State: , Info: null
+2024-12-12T03:57:57.749Z - - ID: 10105, Time: 6178s, State: , Info: null
+2024-12-12T03:57:57.749Z - - ID: 10139, Time: 1255s, State: , Info: null
+2024-12-12T03:57:57.749Z - - ID: 10140, Time: 1094s, State: , Info: null
+2024-12-12T03:57:57.749Z - - ID: 10150, Time: 551s, State: , Info: null
+2024-12-12T03:57:57.749Z - - ID: 10154, Time: 114s, State: , Info: null
+2024-12-12T03:58:03.758Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:58:03.758Z - - ID: 5, Time: 1047059s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:03.758Z - - ID: 10092, Time: 8035s, State: , Info: null
+2024-12-12T03:58:03.758Z - - ID: 10105, Time: 6184s, State: , Info: null
+2024-12-12T03:58:03.758Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T03:58:03.759Z - - ID: 10139, Time: 1261s, State: , Info: null
+2024-12-12T03:58:03.759Z - - ID: 10140, Time: 1100s, State: , Info: null
+2024-12-12T03:58:03.759Z - - ID: 10150, Time: 557s, State: , Info: null
+2024-12-12T03:58:03.759Z - - ID: 10154, Time: 120s, State: , Info: null
+2024-12-12T03:58:16.923Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:58:16.924Z - - ID: 5, Time: 1047071s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:16.924Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10092, Time: 8047s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10105, Time: 6196s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10138, Time: 19s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10139, Time: 1273s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10140, Time: 1112s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10150, Time: 569s, State: , Info: null
+2024-12-12T03:58:16.924Z - - ID: 10154, Time: 132s, State: , Info: null
+2024-12-12T03:58:25.930Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:58:25.930Z - - ID: 5, Time: 1047081s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:25.930Z - - ID: 10092, Time: 8057s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10105, Time: 6206s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10138, Time: 29s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10139, Time: 1283s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10140, Time: 1122s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10150, Time: 579s, State: , Info: null
+2024-12-12T03:58:25.930Z - - ID: 10154, Time: 142s, State: , Info: null
+2024-12-12T03:58:28.931Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:58:28.931Z - - ID: 5, Time: 1047084s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:28.931Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10092, Time: 8060s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10105, Time: 6209s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10138, Time: 32s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10139, Time: 1286s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10140, Time: 1125s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10150, Time: 582s, State: , Info: null
+2024-12-12T03:58:28.931Z - - ID: 10154, Time: 145s, State: , Info: null
+2024-12-12T03:58:34.934Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:58:34.934Z - - ID: 5, Time: 1047090s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:34.934Z - - ID: 10092, Time: 8066s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10105, Time: 6215s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10138, Time: 38s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10139, Time: 1292s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10140, Time: 1131s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10150, Time: 588s, State: , Info: null
+2024-12-12T03:58:34.934Z - - ID: 10154, Time: 151s, State: , Info: null
+2024-12-12T03:58:43.953Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:58:43.953Z - - ID: 5, Time: 1047100s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:43.953Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10092, Time: 8076s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10105, Time: 6225s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10138, Time: 48s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10139, Time: 1302s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10140, Time: 1141s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10150, Time: 598s, State: , Info: null
+2024-12-12T03:58:43.953Z - - ID: 10154, Time: 161s, State: , Info: null
+2024-12-12T03:58:54.110Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:58:54.110Z - - ID: 5, Time: 1047109s, State: Waiting on empty queue, Info: null
+2024-12-12T03:58:54.110Z - - ID: 10092, Time: 8085s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10105, Time: 6234s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10138, Time: 57s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10139, Time: 1311s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10140, Time: 1150s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10150, Time: 607s, State: , Info: null
+2024-12-12T03:58:54.110Z - - ID: 10154, Time: 170s, State: , Info: null
+2024-12-12T03:59:15.120Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:59:15.120Z - - ID: 5, Time: 1047131s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:15.120Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10092, Time: 8107s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10105, Time: 6256s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10138, Time: 79s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10139, Time: 1333s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10140, Time: 1172s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10150, Time: 629s, State: , Info: null
+2024-12-12T03:59:15.120Z - - ID: 10154, Time: 192s, State: , Info: null
+2024-12-12T03:59:21.127Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:59:21.127Z - - ID: 5, Time: 1047137s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:21.127Z - - ID: 8, Time: 14s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10092, Time: 8113s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10105, Time: 6262s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10139, Time: 1339s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10140, Time: 1178s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10150, Time: 635s, State: , Info: null
+2024-12-12T03:59:21.127Z - - ID: 10154, Time: 198s, State: , Info: null
+2024-12-12T03:59:25.307Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T03:59:25.307Z - - ID: 5, Time: 1047140s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:25.307Z - - ID: 10092, Time: 8116s, State: , Info: null
+2024-12-12T03:59:25.307Z - - ID: 10105, Time: 6265s, State: , Info: null
+2024-12-12T03:59:25.307Z - - ID: 10139, Time: 1342s, State: , Info: null
+2024-12-12T03:59:25.307Z - - ID: 10140, Time: 1181s, State: , Info: null
+2024-12-12T03:59:25.307Z - - ID: 10150, Time: 638s, State: , Info: null
+2024-12-12T03:59:25.307Z - - ID: 10154, Time: 201s, State: , Info: null
+2024-12-12T03:59:28.310Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:59:28.310Z - - ID: 5, Time: 1047143s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:28.310Z - - ID: 10092, Time: 8119s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10105, Time: 6268s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10139, Time: 1345s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10140, Time: 1184s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10150, Time: 641s, State: , Info: null
+2024-12-12T03:59:28.310Z - - ID: 10154, Time: 204s, State: , Info: null
+2024-12-12T03:59:31.312Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:59:31.312Z - - ID: 5, Time: 1047146s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:31.312Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10092, Time: 8122s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10105, Time: 6271s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10138, Time: 10s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10139, Time: 1348s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10140, Time: 1187s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10150, Time: 644s, State: , Info: null
+2024-12-12T03:59:31.312Z - - ID: 10154, Time: 207s, State: , Info: null
+2024-12-12T03:59:34.310Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:59:34.311Z - - ID: 5, Time: 1047149s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:34.311Z - - ID: 10092, Time: 8125s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10105, Time: 6274s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10138, Time: 13s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10139, Time: 1351s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10140, Time: 1190s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10150, Time: 647s, State: , Info: null
+2024-12-12T03:59:34.311Z - - ID: 10154, Time: 210s, State: , Info: null
+2024-12-12T03:59:49.321Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:59:49.322Z - - ID: 5, Time: 1047165s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:49.322Z - - ID: 8, Time: 12s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10092, Time: 8141s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10105, Time: 6290s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10138, Time: 6s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10139, Time: 1367s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10140, Time: 1206s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10150, Time: 663s, State: , Info: null
+2024-12-12T03:59:49.322Z - - ID: 10154, Time: 226s, State: , Info: null
+2024-12-12T03:59:52.326Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T03:59:52.327Z - - ID: 5, Time: 1047168s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:52.327Z - - ID: 10092, Time: 8144s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10105, Time: 6293s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10138, Time: 9s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10139, Time: 1370s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10140, Time: 1209s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10150, Time: 666s, State: , Info: null
+2024-12-12T03:59:52.327Z - - ID: 10154, Time: 229s, State: , Info: null
+2024-12-12T03:59:59.509Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T03:59:59.509Z - - ID: 5, Time: 1047174s, State: Waiting on empty queue, Info: null
+2024-12-12T03:59:59.509Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10092, Time: 8150s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10105, Time: 6299s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10138, Time: 15s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10139, Time: 1376s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10140, Time: 1215s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10150, Time: 672s, State: , Info: null
+2024-12-12T03:59:59.509Z - - ID: 10154, Time: 235s, State: , Info: null
+2024-12-12T04:00:02.511Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:00:02.511Z - - ID: 5, Time: 1047177s, State: Waiting on empty queue, Info: null
+2024-12-12T04:00:02.511Z - - ID: 10092, Time: 8153s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10105, Time: 6302s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10138, Time: 18s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10139, Time: 1379s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10140, Time: 1218s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10150, Time: 675s, State: , Info: null
+2024-12-12T04:00:02.511Z - - ID: 10154, Time: 238s, State: , Info: null
+2024-12-12T04:00:14.515Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:00:14.516Z - - ID: 5, Time: 1047190s, State: Waiting on empty queue, Info: null
+2024-12-12T04:00:14.516Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10092, Time: 8166s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10105, Time: 6315s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10138, Time: 31s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10139, Time: 1392s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10140, Time: 1231s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10150, Time: 688s, State: , Info: null
+2024-12-12T04:00:14.516Z - - ID: 10154, Time: 251s, State: , Info: null
+2024-12-12T04:00:23.522Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:00:23.522Z - - ID: 5, Time: 1047199s, State: Waiting on empty queue, Info: null
+2024-12-12T04:00:23.522Z - - ID: 10092, Time: 8175s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10105, Time: 6324s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10138, Time: 40s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10139, Time: 1401s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10140, Time: 1240s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10150, Time: 697s, State: , Info: null
+2024-12-12T04:00:23.522Z - - ID: 10154, Time: 260s, State: , Info: null
+2024-12-12T04:00:45.708Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:00:45.708Z - - ID: 5, Time: 1047221s, State: Waiting on empty queue, Info: null
+2024-12-12T04:00:45.708Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10092, Time: 8197s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10105, Time: 6346s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10138, Time: 62s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10139, Time: 1423s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10140, Time: 1262s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10150, Time: 719s, State: , Info: null
+2024-12-12T04:00:45.708Z - - ID: 10154, Time: 282s, State: , Info: null
+2024-12-12T04:00:54.717Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:00:54.717Z - - ID: 5, Time: 1047230s, State: Waiting on empty queue, Info: null
+2024-12-12T04:00:54.717Z - - ID: 10092, Time: 8206s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10105, Time: 6355s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10138, Time: 71s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10139, Time: 1432s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10140, Time: 1271s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10150, Time: 728s, State: , Info: null
+2024-12-12T04:00:54.717Z - - ID: 10154, Time: 291s, State: , Info: null
+2024-12-12T04:01:13.886Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:01:13.886Z - - ID: 5, Time: 1047249s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:13.886Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:01:13.886Z - - ID: 10092, Time: 8225s, State: , Info: null
+2024-12-12T04:01:13.886Z - - ID: 10105, Time: 6374s, State: , Info: null
+2024-12-12T04:01:13.886Z - - ID: 10138, Time: 90s, State: , Info: null
+2024-12-12T04:01:13.887Z - - ID: 10139, Time: 1451s, State: , Info: null
+2024-12-12T04:01:13.887Z - - ID: 10140, Time: 1290s, State: , Info: null
+2024-12-12T04:01:13.887Z - - ID: 10150, Time: 747s, State: , Info: null
+2024-12-12T04:01:13.887Z - - ID: 10154, Time: 310s, State: , Info: null
+2024-12-12T04:01:22.894Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:01:22.894Z - - ID: 5, Time: 1047258s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:22.894Z - - ID: 10092, Time: 8234s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10105, Time: 6383s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10138, Time: 99s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10139, Time: 1460s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10140, Time: 1299s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10150, Time: 756s, State: , Info: null
+2024-12-12T04:01:22.894Z - - ID: 10154, Time: 319s, State: , Info: null
+2024-12-12T04:01:28.903Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:01:28.903Z - - ID: 5, Time: 1047264s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:28.903Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10092, Time: 8240s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10105, Time: 6389s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10138, Time: 105s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10139, Time: 1466s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10140, Time: 1305s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10150, Time: 762s, State: , Info: null
+2024-12-12T04:01:28.903Z - - ID: 10154, Time: 325s, State: , Info: null
+2024-12-12T04:01:34.907Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:01:34.907Z - - ID: 5, Time: 1047271s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:34.907Z - - ID: 10092, Time: 8247s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10105, Time: 6396s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10138, Time: 112s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10139, Time: 1473s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10140, Time: 1312s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10150, Time: 769s, State: , Info: null
+2024-12-12T04:01:34.907Z - - ID: 10154, Time: 332s, State: , Info: null
+2024-12-12T04:01:45.045Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:01:45.045Z - - ID: 5, Time: 1047280s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:45.045Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10092, Time: 8256s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10105, Time: 6405s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10138, Time: 121s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10139, Time: 1482s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10140, Time: 1321s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10150, Time: 778s, State: , Info: null
+2024-12-12T04:01:45.046Z - - ID: 10154, Time: 341s, State: , Info: null
+2024-12-12T04:01:54.054Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:01:54.054Z - - ID: 5, Time: 1047289s, State: Waiting on empty queue, Info: null
+2024-12-12T04:01:54.054Z - - ID: 10092, Time: 8265s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10105, Time: 6414s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10138, Time: 130s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10139, Time: 1491s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10140, Time: 1330s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10150, Time: 787s, State: , Info: null
+2024-12-12T04:01:54.054Z - - ID: 10154, Time: 350s, State: , Info: null
+2024-12-12T04:02:16.191Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:02:16.192Z - - ID: 5, Time: 1047311s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:16.192Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10092, Time: 8287s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10105, Time: 6436s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10138, Time: 152s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10139, Time: 1513s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10140, Time: 1352s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10150, Time: 809s, State: , Info: null
+2024-12-12T04:02:16.192Z - - ID: 10154, Time: 372s, State: , Info: null
+2024-12-12T04:02:25.198Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:02:25.198Z - - ID: 5, Time: 1047320s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:25.198Z - - ID: 10092, Time: 8296s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10105, Time: 6445s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10138, Time: 161s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10139, Time: 1522s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10140, Time: 1361s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10150, Time: 818s, State: , Info: null
+2024-12-12T04:02:25.198Z - - ID: 10154, Time: 381s, State: , Info: null
+2024-12-12T04:02:28.198Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:02:28.199Z - - ID: 5, Time: 1047324s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:28.199Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10092, Time: 8300s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10105, Time: 6449s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10138, Time: 165s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10139, Time: 1526s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10140, Time: 1365s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10150, Time: 822s, State: , Info: null
+2024-12-12T04:02:28.199Z - - ID: 10154, Time: 385s, State: , Info: null
+2024-12-12T04:02:34.204Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:02:34.204Z - - ID: 5, Time: 1047330s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:34.204Z - - ID: 10092, Time: 8306s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10105, Time: 6455s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10138, Time: 171s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10139, Time: 1532s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10140, Time: 1371s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10150, Time: 828s, State: , Info: null
+2024-12-12T04:02:34.204Z - - ID: 10154, Time: 391s, State: , Info: null
+2024-12-12T04:02:43.227Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:02:43.227Z - - ID: 5, Time: 1047339s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:43.227Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10092, Time: 8315s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10105, Time: 6464s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10138, Time: 180s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10139, Time: 1541s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10140, Time: 1380s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10150, Time: 837s, State: , Info: null
+2024-12-12T04:02:43.227Z - - ID: 10154, Time: 400s, State: , Info: null
+2024-12-12T04:02:53.300Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:02:53.300Z - - ID: 5, Time: 1047348s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:53.300Z - - ID: 10092, Time: 8324s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10105, Time: 6473s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10138, Time: 189s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10139, Time: 1550s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10140, Time: 1389s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10150, Time: 846s, State: , Info: null
+2024-12-12T04:02:53.300Z - - ID: 10154, Time: 409s, State: , Info: null
+2024-12-12T04:02:59.339Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:02:59.339Z - - ID: 5, Time: 1047355s, State: Waiting on empty queue, Info: null
+2024-12-12T04:02:59.339Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10092, Time: 8331s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10105, Time: 6480s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10138, Time: 196s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10139, Time: 1557s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10140, Time: 1396s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10150, Time: 853s, State: , Info: null
+2024-12-12T04:02:59.339Z - - ID: 10154, Time: 416s, State: , Info: null
+2024-12-12T04:03:02.307Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:03:02.307Z - - ID: 5, Time: 1047358s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:02.307Z - - ID: 10092, Time: 8334s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10105, Time: 6483s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10138, Time: 199s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10139, Time: 1560s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10140, Time: 1399s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10150, Time: 856s, State: , Info: null
+2024-12-12T04:03:02.307Z - - ID: 10154, Time: 419s, State: , Info: null
+2024-12-12T04:03:14.323Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:03:14.323Z - - ID: 5, Time: 1047370s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:14.323Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10092, Time: 8346s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10105, Time: 6495s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10138, Time: 211s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10139, Time: 1572s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10140, Time: 1411s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10150, Time: 868s, State: , Info: null
+2024-12-12T04:03:14.323Z - - ID: 10154, Time: 431s, State: , Info: null
+2024-12-12T04:03:24.396Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:03:24.397Z - - ID: 5, Time: 1047379s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:24.397Z - - ID: 10092, Time: 8355s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10105, Time: 6504s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10138, Time: 220s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10139, Time: 1581s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10140, Time: 1420s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10150, Time: 877s, State: , Info: null
+2024-12-12T04:03:24.397Z - - ID: 10154, Time: 440s, State: , Info: null
+2024-12-12T04:03:30.400Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:03:30.401Z - - ID: 5, Time: 1047386s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:30.401Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10092, Time: 8362s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10105, Time: 6511s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10138, Time: 227s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10139, Time: 1588s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10140, Time: 1427s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10150, Time: 884s, State: , Info: null
+2024-12-12T04:03:30.401Z - - ID: 10154, Time: 447s, State: , Info: null
+2024-12-12T04:03:33.402Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:03:33.402Z - - ID: 5, Time: 1047389s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:33.402Z - - ID: 10092, Time: 8365s, State: , Info: null
+2024-12-12T04:03:33.402Z - - ID: 10105, Time: 6514s, State: , Info: null
+2024-12-12T04:03:33.402Z - - ID: 10138, Time: 230s, State: , Info: null
+2024-12-12T04:03:33.402Z - - ID: 10139, Time: 1591s, State: , Info: null
+2024-12-12T04:03:33.402Z - - ID: 10140, Time: 1430s, State: , Info: null
+2024-12-12T04:03:33.402Z - - ID: 10150, Time: 887s, State: , Info: null
+2024-12-12T04:03:33.403Z - - ID: 10154, Time: 450s, State: , Info: null
+2024-12-12T04:03:45.413Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:03:45.413Z - - ID: 5, Time: 1047401s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:45.413Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10092, Time: 8377s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10105, Time: 6526s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10138, Time: 242s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10139, Time: 1603s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10140, Time: 1442s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10150, Time: 899s, State: , Info: null
+2024-12-12T04:03:45.413Z - - ID: 10154, Time: 462s, State: , Info: null
+2024-12-12T04:03:55.541Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:03:55.541Z - - ID: 5, Time: 1047410s, State: Waiting on empty queue, Info: null
+2024-12-12T04:03:55.541Z - - ID: 10092, Time: 8386s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10105, Time: 6535s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10138, Time: 251s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10139, Time: 1612s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10140, Time: 1451s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10150, Time: 908s, State: , Info: null
+2024-12-12T04:03:55.541Z - - ID: 10154, Time: 471s, State: , Info: null
+2024-12-12T04:04:13.557Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:04:13.557Z - - ID: 5, Time: 1047429s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:13.557Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10092, Time: 8405s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10105, Time: 6554s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10138, Time: 270s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10139, Time: 1631s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10140, Time: 1470s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10150, Time: 927s, State: , Info: null
+2024-12-12T04:04:13.557Z - - ID: 10154, Time: 490s, State: , Info: null
+2024-12-12T04:04:22.564Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:04:22.564Z - - ID: 5, Time: 1047438s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:22.564Z - - ID: 10092, Time: 8414s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10105, Time: 6563s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10138, Time: 279s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10139, Time: 1640s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10140, Time: 1479s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10150, Time: 936s, State: , Info: null
+2024-12-12T04:04:22.564Z - - ID: 10154, Time: 499s, State: , Info: null
+2024-12-12T04:04:29.952Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:04:29.952Z - - ID: 5, Time: 1047445s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:29.952Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10092, Time: 8421s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10105, Time: 6570s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10138, Time: 286s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10139, Time: 1647s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10140, Time: 1486s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10150, Time: 943s, State: , Info: null
+2024-12-12T04:04:29.952Z - - ID: 10154, Time: 506s, State: , Info: null
+2024-12-12T04:04:35.958Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:04:35.958Z - - ID: 5, Time: 1047451s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:35.958Z - - ID: 10092, Time: 8427s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10105, Time: 6576s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10138, Time: 292s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10139, Time: 1653s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10140, Time: 1492s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10150, Time: 949s, State: , Info: null
+2024-12-12T04:04:35.958Z - - ID: 10154, Time: 512s, State: , Info: null
+2024-12-12T04:04:44.961Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:04:44.961Z - - ID: 5, Time: 1047460s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:44.961Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10092, Time: 8436s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10105, Time: 6585s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10138, Time: 301s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10139, Time: 1662s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10140, Time: 1501s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10150, Time: 958s, State: , Info: null
+2024-12-12T04:04:44.961Z - - ID: 10154, Time: 521s, State: , Info: null
+2024-12-12T04:04:47.961Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:04:47.961Z - - ID: 5, Time: 1047463s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:47.961Z - - ID: 8, Time: 10s, State: , Info: null
+2024-12-12T04:04:47.961Z - - ID: 10092, Time: 8439s, State: , Info: null
+2024-12-12T04:04:47.961Z - - ID: 10105, Time: 6588s, State: , Info: null
+2024-12-12T04:04:47.961Z - - ID: 10140, Time: 1504s, State: , Info: null
+2024-12-12T04:04:47.961Z - - ID: 10150, Time: 961s, State: , Info: null
+2024-12-12T04:04:47.961Z - - ID: 10154, Time: 524s, State: , Info: null
+2024-12-12T04:04:53.969Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:04:53.969Z - - ID: 5, Time: 1047469s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:53.969Z - - ID: 10092, Time: 8445s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10105, Time: 6594s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10139, Time: 7s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10140, Time: 1510s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10150, Time: 967s, State: , Info: null
+2024-12-12T04:04:53.969Z - - ID: 10154, Time: 530s, State: , Info: null
+2024-12-12T04:04:56.969Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:04:56.969Z - - ID: 5, Time: 1047473s, State: Waiting on empty queue, Info: null
+2024-12-12T04:04:56.969Z - - ID: 10092, Time: 8449s, State: , Info: null
+2024-12-12T04:04:56.969Z - - ID: 10105, Time: 6598s, State: , Info: null
+2024-12-12T04:04:56.969Z - - ID: 10140, Time: 1514s, State: , Info: null
+2024-12-12T04:04:56.969Z - - ID: 10150, Time: 971s, State: , Info: null
+2024-12-12T04:04:56.969Z - - ID: 10154, Time: 534s, State: , Info: null
+2024-12-12T04:05:04.083Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:05:04.083Z - - ID: 5, Time: 1047479s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:04.083Z - - ID: 10092, Time: 8455s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10105, Time: 6604s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10138, Time: 6s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10139, Time: 7s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10140, Time: 1520s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10150, Time: 977s, State: , Info: null
+2024-12-12T04:05:04.083Z - - ID: 10154, Time: 540s, State: , Info: null
+2024-12-12T04:05:07.085Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:05:07.085Z - - ID: 5, Time: 1047482s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:07.085Z - - ID: 10092, Time: 8458s, State: , Info: null
+2024-12-12T04:05:07.085Z - - ID: 10105, Time: 6607s, State: , Info: null
+2024-12-12T04:05:07.085Z - - ID: 10138, Time: 9s, State: , Info: null
+2024-12-12T04:05:07.085Z - - ID: 10140, Time: 1523s, State: , Info: null
+2024-12-12T04:05:07.085Z - - ID: 10150, Time: 980s, State: , Info: null
+2024-12-12T04:05:07.085Z - - ID: 10154, Time: 543s, State: , Info: null
+2024-12-12T04:05:10.087Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:05:10.087Z - - ID: 5, Time: 1047485s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:10.087Z - - ID: 10092, Time: 8461s, State: , Info: null
+2024-12-12T04:05:10.087Z - - ID: 10105, Time: 6610s, State: , Info: null
+2024-12-12T04:05:10.087Z - - ID: 10140, Time: 1526s, State: , Info: null
+2024-12-12T04:05:10.087Z - - ID: 10150, Time: 983s, State: , Info: null
+2024-12-12T04:05:10.087Z - - ID: 10154, Time: 546s, State: , Info: null
+2024-12-12T04:05:16.090Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:05:16.091Z - - ID: 5, Time: 1047491s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:16.091Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10092, Time: 8467s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10105, Time: 6616s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10138, Time: 8s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10139, Time: 8s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10140, Time: 1532s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10150, Time: 989s, State: , Info: null
+2024-12-12T04:05:16.091Z - - ID: 10154, Time: 552s, State: , Info: null
+2024-12-12T04:05:25.097Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:05:25.097Z - - ID: 5, Time: 1047500s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:25.097Z - - ID: 10092, Time: 8476s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10105, Time: 6625s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10138, Time: 17s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10139, Time: 17s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10140, Time: 1541s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10150, Time: 998s, State: , Info: null
+2024-12-12T04:05:25.097Z - - ID: 10154, Time: 561s, State: , Info: null
+2024-12-12T04:05:28.098Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:05:28.099Z - - ID: 5, Time: 1047504s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:28.099Z - - ID: 10092, Time: 8480s, State: , Info: null
+2024-12-12T04:05:28.099Z - - ID: 10105, Time: 6629s, State: , Info: null
+2024-12-12T04:05:28.099Z - - ID: 10139, Time: 21s, State: , Info: null
+2024-12-12T04:05:28.099Z - - ID: 10140, Time: 1545s, State: , Info: null
+2024-12-12T04:05:28.099Z - - ID: 10150, Time: 1002s, State: , Info: null
+2024-12-12T04:05:28.099Z - - ID: 10154, Time: 565s, State: , Info: null
+2024-12-12T04:05:35.192Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:05:35.192Z - - ID: 5, Time: 1047510s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:35.193Z - - ID: 10092, Time: 8486s, State: , Info: null
+2024-12-12T04:05:35.193Z - - ID: 10105, Time: 6635s, State: , Info: null
+2024-12-12T04:05:35.193Z - - ID: 10140, Time: 1551s, State: , Info: null
+2024-12-12T04:05:35.193Z - - ID: 10150, Time: 1008s, State: , Info: null
+2024-12-12T04:05:35.193Z - - ID: 10154, Time: 571s, State: , Info: null
+2024-12-12T04:05:38.194Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:05:38.195Z - - ID: 5, Time: 1047513s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:38.195Z - - ID: 10092, Time: 8489s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10105, Time: 6638s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10139, Time: 7s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10140, Time: 1554s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10150, Time: 1011s, State: , Info: null
+2024-12-12T04:05:38.195Z - - ID: 10154, Time: 574s, State: , Info: null
+2024-12-12T04:05:44.198Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:05:44.198Z - - ID: 5, Time: 1047519s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:44.198Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10092, Time: 8495s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10105, Time: 6644s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10138, Time: 13s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10139, Time: 13s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10140, Time: 1560s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10150, Time: 1017s, State: , Info: null
+2024-12-12T04:05:44.198Z - - ID: 10154, Time: 580s, State: , Info: null
+2024-12-12T04:05:53.204Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:05:53.204Z - - ID: 5, Time: 1047528s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:53.204Z - - ID: 10092, Time: 8504s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10105, Time: 6653s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10138, Time: 22s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10139, Time: 22s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10140, Time: 1569s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10150, Time: 1026s, State: , Info: null
+2024-12-12T04:05:53.204Z - - ID: 10154, Time: 589s, State: , Info: null
+2024-12-12T04:05:56.206Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:05:56.207Z - - ID: 5, Time: 1047531s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:56.207Z - - ID: 10092, Time: 8507s, State: , Info: null
+2024-12-12T04:05:56.207Z - - ID: 10105, Time: 6656s, State: , Info: null
+2024-12-12T04:05:56.207Z - - ID: 10138, Time: 25s, State: , Info: null
+2024-12-12T04:05:56.207Z - - ID: 10140, Time: 1572s, State: , Info: null
+2024-12-12T04:05:56.207Z - - ID: 10150, Time: 1029s, State: , Info: null
+2024-12-12T04:05:56.207Z - - ID: 10154, Time: 592s, State: , Info: null
+2024-12-12T04:05:59.314Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:05:59.314Z - - ID: 5, Time: 1047535s, State: Waiting on empty queue, Info: null
+2024-12-12T04:05:59.314Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10092, Time: 8511s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10105, Time: 6660s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10138, Time: 29s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10140, Time: 1576s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10150, Time: 1033s, State: , Info: null
+2024-12-12T04:05:59.314Z - - ID: 10154, Time: 596s, State: , Info: null
+2024-12-12T04:06:12.310Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:06:12.310Z - - ID: 5, Time: 1047547s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:12.310Z - - ID: 10092, Time: 8523s, State: , Info: null
+2024-12-12T04:06:12.310Z - - ID: 10105, Time: 6672s, State: , Info: null
+2024-12-12T04:06:12.310Z - - ID: 10139, Time: 16s, State: , Info: null
+2024-12-12T04:06:12.310Z - - ID: 10140, Time: 1588s, State: , Info: null
+2024-12-12T04:06:12.311Z - - ID: 10150, Time: 1045s, State: , Info: null
+2024-12-12T04:06:12.311Z - - ID: 10154, Time: 608s, State: , Info: null
+2024-12-12T04:06:15.311Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:06:15.311Z - - ID: 5, Time: 1047550s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:15.311Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10092, Time: 8526s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10105, Time: 6675s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10139, Time: 19s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10140, Time: 1591s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10150, Time: 1048s, State: , Info: null
+2024-12-12T04:06:15.311Z - - ID: 10154, Time: 611s, State: , Info: null
+2024-12-12T04:06:18.312Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:06:18.313Z - - ID: 5, Time: 1047553s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:18.313Z - - ID: 8, Time: 10s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10092, Time: 8529s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10105, Time: 6678s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10138, Time: 8s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10139, Time: 22s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10140, Time: 1594s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10150, Time: 1051s, State: , Info: null
+2024-12-12T04:06:18.313Z - - ID: 10154, Time: 614s, State: , Info: null
+2024-12-12T04:06:24.317Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:06:24.318Z - - ID: 5, Time: 1047559s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:24.318Z - - ID: 10092, Time: 8535s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10105, Time: 6684s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10138, Time: 14s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10139, Time: 28s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10140, Time: 1600s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10150, Time: 1057s, State: , Info: null
+2024-12-12T04:06:24.318Z - - ID: 10154, Time: 620s, State: , Info: null
+2024-12-12T04:06:30.323Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:06:30.323Z - - ID: 5, Time: 1047566s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:30.323Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10092, Time: 8542s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10105, Time: 6691s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10138, Time: 21s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10139, Time: 35s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10140, Time: 1607s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10150, Time: 1064s, State: , Info: null
+2024-12-12T04:06:30.323Z - - ID: 10154, Time: 627s, State: , Info: null
+2024-12-12T04:06:33.325Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:06:33.325Z - - ID: 5, Time: 1047569s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:33.325Z - - ID: 10092, Time: 8545s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10105, Time: 6694s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10138, Time: 24s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10139, Time: 38s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10140, Time: 1610s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10150, Time: 1067s, State: , Info: null
+2024-12-12T04:06:33.325Z - - ID: 10154, Time: 630s, State: , Info: null
+2024-12-12T04:06:40.425Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:06:40.425Z - - ID: 5, Time: 1047575s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:40.425Z - - ID: 10092, Time: 8551s, State: , Info: null
+2024-12-12T04:06:40.425Z - - ID: 10105, Time: 6700s, State: , Info: null
+2024-12-12T04:06:40.425Z - - ID: 10140, Time: 1616s, State: , Info: null
+2024-12-12T04:06:40.425Z - - ID: 10150, Time: 1073s, State: , Info: null
+2024-12-12T04:06:40.425Z - - ID: 10154, Time: 636s, State: , Info: null
+2024-12-12T04:06:46.428Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:06:46.428Z - - ID: 5, Time: 1047581s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:46.428Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:06:46.428Z - - ID: 10092, Time: 8557s, State: , Info: null
+2024-12-12T04:06:46.428Z - - ID: 10105, Time: 6706s, State: , Info: null
+2024-12-12T04:06:46.428Z - - ID: 10140, Time: 1622s, State: , Info: null
+2024-12-12T04:06:46.428Z - - ID: 10150, Time: 1079s, State: , Info: null
+2024-12-12T04:06:46.428Z - - ID: 10154, Time: 642s, State: , Info: null
+2024-12-12T04:06:52.432Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:06:52.432Z - - ID: 5, Time: 1047587s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:52.432Z - - ID: 8, Time: 14s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10092, Time: 8563s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10105, Time: 6712s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10138, Time: 7s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10139, Time: 7s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10140, Time: 1628s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10150, Time: 1085s, State: , Info: null
+2024-12-12T04:06:52.432Z - - ID: 10154, Time: 648s, State: , Info: null
+2024-12-12T04:06:55.433Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:06:55.433Z - - ID: 5, Time: 1047590s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:55.433Z - - ID: 10092, Time: 8566s, State: , Info: null
+2024-12-12T04:06:55.433Z - - ID: 10105, Time: 6715s, State: , Info: null
+2024-12-12T04:06:55.433Z - - ID: 10140, Time: 1631s, State: , Info: null
+2024-12-12T04:06:55.433Z - - ID: 10150, Time: 1088s, State: , Info: null
+2024-12-12T04:06:55.433Z - - ID: 10154, Time: 651s, State: , Info: null
+2024-12-12T04:06:58.436Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:06:58.436Z - - ID: 5, Time: 1047594s, State: Waiting on empty queue, Info: null
+2024-12-12T04:06:58.436Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:06:58.436Z - - ID: 10092, Time: 8570s, State: , Info: null
+2024-12-12T04:06:58.436Z - - ID: 10105, Time: 6719s, State: , Info: null
+2024-12-12T04:06:58.436Z - - ID: 10140, Time: 1635s, State: , Info: null
+2024-12-12T04:06:58.436Z - - ID: 10150, Time: 1092s, State: , Info: null
+2024-12-12T04:06:58.436Z - - ID: 10154, Time: 655s, State: , Info: null
+2024-12-12T04:07:01.439Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 6
+2024-12-12T04:07:01.440Z - - ID: 5, Time: 1047597s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:01.440Z - - ID: 10092, Time: 8573s, State: , Info: null
+2024-12-12T04:07:01.440Z - - ID: 10105, Time: 6722s, State: , Info: null
+2024-12-12T04:07:01.440Z - - ID: 10140, Time: 1638s, State: , Info: null
+2024-12-12T04:07:01.440Z - - ID: 10150, Time: 1095s, State: , Info: null
+2024-12-12T04:07:01.440Z - - ID: 10154, Time: 658s, State: , Info: null
+2024-12-12T04:07:04.441Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:07:04.441Z - - ID: 5, Time: 1047600s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:04.441Z - - ID: 10092, Time: 8576s, State: , Info: null
+2024-12-12T04:07:04.441Z - - ID: 10105, Time: 6725s, State: , Info: null
+2024-12-12T04:07:04.441Z - - ID: 10150, Time: 1098s, State: , Info: null
+2024-12-12T04:07:04.441Z - - ID: 10154, Time: 661s, State: , Info: null
+2024-12-12T04:07:04.441Z - - ID: 10158, Time: 8s, State: , Info: null
+2024-12-12T04:07:04.441Z - - ID: 10159, Time: 6s, State: , Info: null
+2024-12-12T04:07:10.444Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:07:10.444Z - - ID: 5, Time: 1047606s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:10.444Z - - ID: 10092, Time: 8582s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10105, Time: 6731s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10140, Time: 7s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10150, Time: 1104s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10154, Time: 667s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10158, Time: 14s, State: , Info: null
+2024-12-12T04:07:10.444Z - - ID: 10159, Time: 12s, State: , Info: null
+2024-12-12T04:07:14.541Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:07:14.541Z - - ID: 5, Time: 1047609s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:14.541Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10092, Time: 8585s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10105, Time: 6734s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10140, Time: 10s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10150, Time: 1107s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10154, Time: 670s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10158, Time: 17s, State: , Info: null
+2024-12-12T04:07:14.541Z - - ID: 10159, Time: 15s, State: , Info: null
+2024-12-12T04:07:23.545Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:07:23.546Z - - ID: 5, Time: 1047618s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:23.546Z - - ID: 10092, Time: 8594s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10105, Time: 6743s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10140, Time: 19s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10150, Time: 1116s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10154, Time: 679s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10158, Time: 26s, State: , Info: null
+2024-12-12T04:07:23.546Z - - ID: 10159, Time: 24s, State: , Info: null
+2024-12-12T04:07:29.551Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:07:29.551Z - - ID: 5, Time: 1047625s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:29.551Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10092, Time: 8601s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10105, Time: 6750s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10140, Time: 26s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10150, Time: 1123s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10154, Time: 686s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10158, Time: 33s, State: , Info: null
+2024-12-12T04:07:29.551Z - - ID: 10159, Time: 31s, State: , Info: null
+2024-12-12T04:07:35.552Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:07:35.552Z - - ID: 5, Time: 1047631s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:35.552Z - - ID: 10092, Time: 8607s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10105, Time: 6756s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10140, Time: 32s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10150, Time: 1129s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10154, Time: 692s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10158, Time: 39s, State: , Info: null
+2024-12-12T04:07:35.552Z - - ID: 10159, Time: 37s, State: , Info: null
+2024-12-12T04:07:44.562Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:07:44.562Z - - ID: 5, Time: 1047640s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:44.563Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10092, Time: 8616s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10105, Time: 6765s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10140, Time: 41s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10150, Time: 1138s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10154, Time: 701s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10158, Time: 48s, State: , Info: null
+2024-12-12T04:07:44.563Z - - ID: 10159, Time: 46s, State: , Info: null
+2024-12-12T04:07:54.654Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:07:54.654Z - - ID: 5, Time: 1047649s, State: Waiting on empty queue, Info: null
+2024-12-12T04:07:54.654Z - - ID: 10092, Time: 8625s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10105, Time: 6774s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10140, Time: 50s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10150, Time: 1147s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10154, Time: 710s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10158, Time: 57s, State: , Info: null
+2024-12-12T04:07:54.654Z - - ID: 10159, Time: 55s, State: , Info: null
+2024-12-12T04:08:15.673Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:08:15.673Z - - ID: 5, Time: 1047671s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:15.673Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10092, Time: 8647s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10105, Time: 6796s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10140, Time: 72s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10150, Time: 1169s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10154, Time: 732s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10158, Time: 79s, State: , Info: null
+2024-12-12T04:08:15.673Z - - ID: 10159, Time: 77s, State: , Info: null
+2024-12-12T04:08:25.759Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:08:25.759Z - - ID: 5, Time: 1047680s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:25.759Z - - ID: 10092, Time: 8656s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10105, Time: 6805s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10140, Time: 81s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10150, Time: 1178s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10154, Time: 741s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10158, Time: 88s, State: , Info: null
+2024-12-12T04:08:25.759Z - - ID: 10159, Time: 86s, State: , Info: null
+2024-12-12T04:08:28.760Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:08:28.760Z - - ID: 5, Time: 1047684s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:28.760Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10092, Time: 8660s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10105, Time: 6809s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10140, Time: 85s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10150, Time: 1182s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10154, Time: 745s, State: , Info: null
+2024-12-12T04:08:28.760Z - - ID: 10158, Time: 92s, State: , Info: null
+2024-12-12T04:08:28.761Z - - ID: 10159, Time: 90s, State: , Info: null
+2024-12-12T04:08:34.764Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:08:34.764Z - - ID: 5, Time: 1047690s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:34.764Z - - ID: 10092, Time: 8666s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10105, Time: 6815s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10140, Time: 91s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10150, Time: 1188s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10154, Time: 751s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10158, Time: 98s, State: , Info: null
+2024-12-12T04:08:34.764Z - - ID: 10159, Time: 96s, State: , Info: null
+2024-12-12T04:08:43.772Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:08:43.772Z - - ID: 5, Time: 1047699s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:43.773Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10092, Time: 8675s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10105, Time: 6824s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10140, Time: 100s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10150, Time: 1197s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10154, Time: 760s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10158, Time: 107s, State: , Info: null
+2024-12-12T04:08:43.773Z - - ID: 10159, Time: 105s, State: , Info: null
+2024-12-12T04:08:53.858Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:08:53.858Z - - ID: 5, Time: 1047708s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:53.858Z - - ID: 10092, Time: 8684s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10105, Time: 6833s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10140, Time: 109s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10150, Time: 1206s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10154, Time: 769s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10158, Time: 116s, State: , Info: null
+2024-12-12T04:08:53.858Z - - ID: 10159, Time: 114s, State: , Info: null
+2024-12-12T04:08:59.936Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:08:59.936Z - - ID: 5, Time: 1047715s, State: Waiting on empty queue, Info: null
+2024-12-12T04:08:59.936Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10092, Time: 8691s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10105, Time: 6840s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10140, Time: 116s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10150, Time: 1213s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10154, Time: 776s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10158, Time: 123s, State: , Info: null
+2024-12-12T04:08:59.936Z - - ID: 10159, Time: 121s, State: , Info: null
+2024-12-12T04:09:02.868Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:09:02.869Z - - ID: 5, Time: 1047718s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:02.869Z - - ID: 10092, Time: 8694s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10105, Time: 6843s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10140, Time: 119s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10150, Time: 1216s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10154, Time: 779s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10158, Time: 126s, State: , Info: null
+2024-12-12T04:09:02.869Z - - ID: 10159, Time: 124s, State: , Info: null
+2024-12-12T04:09:14.877Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:09:14.877Z - - ID: 5, Time: 1047730s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:14.877Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10092, Time: 8706s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10105, Time: 6855s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10140, Time: 131s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10150, Time: 1228s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10154, Time: 791s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10158, Time: 138s, State: , Info: null
+2024-12-12T04:09:14.877Z - - ID: 10159, Time: 136s, State: , Info: null
+2024-12-12T04:09:23.880Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:09:23.880Z - - ID: 5, Time: 1047739s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:23.880Z - - ID: 10092, Time: 8715s, State: , Info: null
+2024-12-12T04:09:23.880Z - - ID: 10105, Time: 6864s, State: , Info: null
+2024-12-12T04:09:23.880Z - - ID: 10140, Time: 140s, State: , Info: null
+2024-12-12T04:09:23.880Z - - ID: 10150, Time: 1237s, State: , Info: null
+2024-12-12T04:09:23.881Z - - ID: 10154, Time: 800s, State: , Info: null
+2024-12-12T04:09:23.881Z - - ID: 10158, Time: 147s, State: , Info: null
+2024-12-12T04:09:23.881Z - - ID: 10159, Time: 145s, State: , Info: null
+2024-12-12T04:09:30.970Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:09:30.970Z - - ID: 5, Time: 1047746s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:30.970Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10092, Time: 8722s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10105, Time: 6871s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10140, Time: 147s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10150, Time: 1244s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10154, Time: 807s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10158, Time: 154s, State: , Info: null
+2024-12-12T04:09:30.970Z - - ID: 10159, Time: 152s, State: , Info: null
+2024-12-12T04:09:33.971Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 7
+2024-12-12T04:09:33.971Z - - ID: 5, Time: 1047749s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:33.971Z - - ID: 10092, Time: 8725s, State: , Info: null
+2024-12-12T04:09:33.971Z - - ID: 10105, Time: 6874s, State: , Info: null
+2024-12-12T04:09:33.971Z - - ID: 10150, Time: 1247s, State: , Info: null
+2024-12-12T04:09:33.971Z - - ID: 10154, Time: 810s, State: , Info: null
+2024-12-12T04:09:33.971Z - - ID: 10158, Time: 157s, State: , Info: null
+2024-12-12T04:09:33.971Z - - ID: 10159, Time: 155s, State: , Info: null
+2024-12-12T04:09:39.977Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:09:39.977Z - - ID: 5, Time: 1047755s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:39.977Z - - ID: 10092, Time: 8731s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10105, Time: 6880s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10150, Time: 1253s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10154, Time: 816s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10158, Time: 163s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10159, Time: 161s, State: , Info: null
+2024-12-12T04:09:39.977Z - - ID: 10160, Time: 6s, State: , Info: null
+2024-12-12T04:09:45.984Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:09:45.984Z - - ID: 5, Time: 1047761s, State: Waiting on empty queue, Info: null
+2024-12-12T04:09:45.984Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10092, Time: 8737s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10105, Time: 6886s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10150, Time: 1259s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10154, Time: 822s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10158, Time: 169s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10159, Time: 167s, State: , Info: null
+2024-12-12T04:09:45.984Z - - ID: 10160, Time: 12s, State: , Info: null
+2024-12-12T04:10:01.695Z - 데이터베이스 연결 복구됨
+2024-12-12T04:10:01.696Z - 데이터베이스 연결 성공
+2024-12-12T04:10:01.713Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:10:01.714Z - - ID: 5, Time: 1047776s, State: Waiting on empty queue, Info: null
+2024-12-12T04:10:01.714Z - - ID: 10092, Time: 8752s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10105, Time: 6901s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10150, Time: 1274s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10154, Time: 837s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10158, Time: 184s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10159, Time: 182s, State: , Info: null
+2024-12-12T04:10:01.714Z - - ID: 10160, Time: 27s, State: , Info: null
+2024-12-12T04:10:13.715Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:10:13.716Z - - ID: 5, Time: 1047789s, State: Waiting on empty queue, Info: null
+2024-12-12T04:10:13.716Z - - ID: 8, Time: 6s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10092, Time: 8765s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10105, Time: 6914s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10150, Time: 1287s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10154, Time: 850s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10158, Time: 197s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10159, Time: 195s, State: , Info: null
+2024-12-12T04:10:13.716Z - - ID: 10160, Time: 40s, State: , Info: null
+2024-12-12T04:10:22.723Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:10:22.723Z - - ID: 5, Time: 1047798s, State: Waiting on empty queue, Info: null
+2024-12-12T04:10:22.723Z - - ID: 10092, Time: 8774s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10105, Time: 6923s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10150, Time: 1296s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10154, Time: 859s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10158, Time: 206s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10159, Time: 204s, State: , Info: null
+2024-12-12T04:10:22.723Z - - ID: 10160, Time: 49s, State: , Info: null
+2024-12-12T04:10:31.727Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 9
+2024-12-12T04:10:31.727Z - - ID: 5, Time: 1047807s, State: Waiting on empty queue, Info: null
+2024-12-12T04:10:31.727Z - - ID: 8, Time: 7s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10092, Time: 8783s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10105, Time: 6932s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10150, Time: 1305s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10154, Time: 868s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10158, Time: 215s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10159, Time: 213s, State: , Info: null
+2024-12-12T04:10:31.727Z - - ID: 10160, Time: 58s, State: , Info: null
+2024-12-12T04:10:35.809Z - 상태 업데이트 - 활성 연결: 9, 프로세스: 10, 슬로우 쿼리: 8
+2024-12-12T04:10:35.809Z - - ID: 5, Time: 1047810s, State: Waiting on empty queue, Info: null
+2024-12-12T04:10:35.809Z - - ID: 10092, Time: 8786s, State: , Info: null
+2024-12-12T04:10:35.809Z - - ID: 10105, Time: 6935s, State: , Info: null
+2024-12-12T04:10:35.809Z - - ID: 10150, Time: 1308s, State: , Info: null
+2024-12-12T04:10:35.809Z - - ID: 10154, Time: 871s, State: , Info: null
+2024-12-12T04:10:35.810Z - - ID: 10158, Time: 218s, State: , Info: null
+2024-12-12T04:10:35.810Z - - ID: 10159, Time: 216s, State: , Info: null
+2024-12-12T04:10:35.810Z - - ID: 10160, Time: 61s, State: , Info: null
