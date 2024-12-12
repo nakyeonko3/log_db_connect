@@ -15057,3 +15057,326 @@
 2024-12-06T06:31:02.149Z - - ID: 6484, Time: 255s, State: , Info: null
 2024-12-06T06:31:02.157Z - 최대 연결 수 설정: 60
 2024-12-09T21:20:17.740Z - 데이터베이스 연결 성공
+2024-12-12T03:25:03.731Z - 데이터베이스 연결 성공
+2024-12-12T03:25:31.203Z - 데이터베이스 연결 종료
+2024-12-12T03:28:49.048Z - 데이터베이스 연결 성공
+2024-12-12T03:28:49.067Z - 활성 연결 수: 9
+2024-12-12T03:28:49.073Z - 총 프로세스 수: 10
+2024-12-12T03:28:49.073Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:28:49.073Z - - ID: 5, Time: 1045304s, State: Waiting on empty queue, Info: null
+2024-12-12T03:28:49.074Z - - ID: 8, Time: 11s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10092, Time: 6280s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10105, Time: 4429s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10123, Time: 1306s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10124, Time: 1295s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10126, Time: 1102s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10128, Time: 592s, State: , Info: null
+2024-12-12T03:28:49.074Z - - ID: 10132, Time: 147s, State: , Info: null
+2024-12-12T03:28:49.082Z - 최대 연결 수 설정: 60
+2024-12-12T03:28:49.728Z - 활성 연결 수: 9
+2024-12-12T03:28:49.733Z - 총 프로세스 수: 10
+2024-12-12T03:28:49.733Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:28:49.733Z - - ID: 5, Time: 1045304s, State: Waiting on empty queue, Info: null
+2024-12-12T03:28:49.733Z - - ID: 8, Time: 11s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10092, Time: 6280s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10105, Time: 4429s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10123, Time: 1306s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10124, Time: 1295s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10126, Time: 1102s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10128, Time: 592s, State: , Info: null
+2024-12-12T03:28:49.733Z - - ID: 10132, Time: 147s, State: , Info: null
+2024-12-12T03:28:49.739Z - 최대 연결 수 설정: 60
+2024-12-12T03:28:49.790Z - 활성 연결 수: 9
+2024-12-12T03:28:49.796Z - 총 프로세스 수: 10
+2024-12-12T03:28:49.796Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:28:49.796Z - - ID: 5, Time: 1045304s, State: Waiting on empty queue, Info: null
+2024-12-12T03:28:49.796Z - - ID: 8, Time: 11s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10092, Time: 6280s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10105, Time: 4429s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10123, Time: 1306s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10124, Time: 1295s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10126, Time: 1102s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10128, Time: 592s, State: , Info: null
+2024-12-12T03:28:49.796Z - - ID: 10132, Time: 147s, State: , Info: null
+2024-12-12T03:28:49.811Z - 최대 연결 수 설정: 60
+2024-12-12T03:28:51.857Z - 활성 연결 수: 9
+2024-12-12T03:28:51.862Z - 총 프로세스 수: 10
+2024-12-12T03:28:51.862Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:28:51.862Z - - ID: 5, Time: 1045307s, State: Waiting on empty queue, Info: null
+2024-12-12T03:28:51.862Z - - ID: 8, Time: 14s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10092, Time: 6283s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10105, Time: 4432s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10123, Time: 1309s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10124, Time: 1298s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10126, Time: 1105s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10128, Time: 595s, State: , Info: null
+2024-12-12T03:28:51.862Z - - ID: 10132, Time: 150s, State: , Info: null
+2024-12-12T03:28:51.868Z - 최대 연결 수 설정: 60
+2024-12-12T03:28:58.346Z - 활성 연결 수: 9
+2024-12-12T03:28:58.351Z - 총 프로세스 수: 10
+2024-12-12T03:28:58.352Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:28:58.352Z - - ID: 5, Time: 1045313s, State: Waiting on empty queue, Info: null
+2024-12-12T03:28:58.352Z - - ID: 10092, Time: 6289s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10105, Time: 4438s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10123, Time: 1315s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10124, Time: 1304s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10126, Time: 1111s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10128, Time: 601s, State: , Info: null
+2024-12-12T03:28:58.352Z - - ID: 10132, Time: 156s, State: , Info: null
+2024-12-12T03:28:58.358Z - 최대 연결 수 설정: 60
+2024-12-12T03:29:51.351Z - 활성 연결 수: 9
+2024-12-12T03:29:51.356Z - 총 프로세스 수: 10
+2024-12-12T03:29:51.357Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:29:51.357Z - - ID: 5, Time: 1045366s, State: Waiting on empty queue, Info: null
+2024-12-12T03:29:51.357Z - - ID: 8, Time: 13s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10092, Time: 6342s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10105, Time: 4491s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10123, Time: 1368s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10124, Time: 1357s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10126, Time: 1164s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10128, Time: 654s, State: , Info: null
+2024-12-12T03:29:51.357Z - - ID: 10132, Time: 209s, State: , Info: null
+2024-12-12T03:29:51.363Z - 최대 연결 수 설정: 60
+2024-12-12T03:30:52.495Z - 활성 연결 수: 9
+2024-12-12T03:30:52.500Z - 총 프로세스 수: 10
+2024-12-12T03:30:52.500Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:30:52.500Z - - ID: 5, Time: 1045428s, State: Waiting on empty queue, Info: null
+2024-12-12T03:30:52.500Z - - ID: 10092, Time: 6404s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10105, Time: 4553s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10123, Time: 1430s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10124, Time: 1419s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10126, Time: 1226s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10128, Time: 716s, State: , Info: null
+2024-12-12T03:30:52.500Z - - ID: 10132, Time: 271s, State: , Info: null
+2024-12-12T03:30:52.506Z - 최대 연결 수 설정: 60
+2024-12-12T03:31:25.836Z - 활성 연결 수: 9
+2024-12-12T03:31:25.845Z - 총 프로세스 수: 10
+2024-12-12T03:31:25.845Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:31:25.845Z - - ID: 5, Time: 1045461s, State: Waiting on empty queue, Info: null
+2024-12-12T03:31:25.846Z - - ID: 10092, Time: 6437s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10105, Time: 4586s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10123, Time: 1463s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10124, Time: 1452s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10126, Time: 1259s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10128, Time: 749s, State: , Info: null
+2024-12-12T03:31:25.846Z - - ID: 10132, Time: 304s, State: , Info: null
+2024-12-12T03:31:25.854Z - 최대 연결 수 설정: 60
+2024-12-12T03:33:02.675Z - 데이터베이스 연결 성공
+2024-12-12T03:33:02.687Z - 활성 연결 수: 9
+2024-12-12T03:33:02.692Z - 총 프로세스 수: 10
+2024-12-12T03:33:02.692Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:33:02.692Z - - ID: 5, Time: 1045558s, State: Waiting on empty queue, Info: null
+2024-12-12T03:33:02.693Z - - ID: 10092, Time: 6534s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10105, Time: 4683s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10123, Time: 43s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10124, Time: 1549s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10126, Time: 1356s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10128, Time: 846s, State: , Info: null
+2024-12-12T03:33:02.693Z - - ID: 10132, Time: 401s, State: , Info: null
+2024-12-12T03:33:02.700Z - 최대 연결 수 설정: 60
+2024-12-12T03:33:03.300Z - 활성 연결 수: 9
+2024-12-12T03:33:03.306Z - 활성 연결 수: 9
+2024-12-12T03:33:03.311Z - 활성 연결 수: 9
+2024-12-12T03:33:03.316Z - 총 프로세스 수: 10
+2024-12-12T03:33:03.316Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:33:03.316Z - - ID: 5, Time: 1045559s, State: Waiting on empty queue, Info: null
+2024-12-12T03:33:03.316Z - - ID: 10092, Time: 6535s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10105, Time: 4684s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10123, Time: 44s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10124, Time: 1550s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10126, Time: 1357s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10128, Time: 847s, State: , Info: null
+2024-12-12T03:33:03.316Z - - ID: 10132, Time: 402s, State: , Info: null
+2024-12-12T03:33:03.321Z - 총 프로세스 수: 10
+2024-12-12T03:33:03.321Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:33:03.321Z - - ID: 5, Time: 1045559s, State: Waiting on empty queue, Info: null
+2024-12-12T03:33:03.321Z - - ID: 10092, Time: 6535s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10105, Time: 4684s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10123, Time: 44s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10124, Time: 1550s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10126, Time: 1357s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10128, Time: 847s, State: , Info: null
+2024-12-12T03:33:03.321Z - - ID: 10132, Time: 402s, State: , Info: null
+2024-12-12T03:33:03.327Z - 총 프로세스 수: 10
+2024-12-12T03:33:03.328Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:33:03.328Z - - ID: 5, Time: 1045559s, State: Waiting on empty queue, Info: null
+2024-12-12T03:33:03.328Z - - ID: 10092, Time: 6535s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10105, Time: 4684s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10123, Time: 44s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10124, Time: 1550s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10126, Time: 1357s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10128, Time: 847s, State: , Info: null
+2024-12-12T03:33:03.328Z - - ID: 10132, Time: 402s, State: , Info: null
+2024-12-12T03:33:03.333Z - 최대 연결 수 설정: 60
+2024-12-12T03:33:03.339Z - 최대 연결 수 설정: 60
+2024-12-12T03:33:03.345Z - 최대 연결 수 설정: 60
+2024-12-12T03:33:04.743Z - 활성 연결 수: 9
+2024-12-12T03:33:04.748Z - 총 프로세스 수: 10
+2024-12-12T03:33:04.748Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:33:04.748Z - - ID: 5, Time: 1045560s, State: Waiting on empty queue, Info: null
+2024-12-12T03:33:04.748Z - - ID: 10092, Time: 6536s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10105, Time: 4685s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10123, Time: 45s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10124, Time: 1551s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10126, Time: 1358s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10128, Time: 848s, State: , Info: null
+2024-12-12T03:33:04.748Z - - ID: 10132, Time: 403s, State: , Info: null
+2024-12-12T03:33:04.755Z - 최대 연결 수 설정: 60
+2024-12-12T03:34:04.813Z - 활성 연결 수: 9
+2024-12-12T03:34:04.818Z - 총 프로세스 수: 10
+2024-12-12T03:34:04.818Z - 장시간 실행 쿼리 수: 7
+2024-12-12T03:34:04.818Z - - ID: 5, Time: 1045620s, State: Waiting on empty queue, Info: null
+2024-12-12T03:34:04.818Z - - ID: 10092, Time: 6596s, State: , Info: null
+2024-12-12T03:34:04.818Z - - ID: 10105, Time: 4745s, State: , Info: null
+2024-12-12T03:34:04.818Z - - ID: 10124, Time: 7s, State: , Info: null
+2024-12-12T03:34:04.818Z - - ID: 10126, Time: 1418s, State: , Info: null
+2024-12-12T03:34:04.818Z - - ID: 10128, Time: 908s, State: , Info: null
+2024-12-12T03:34:04.819Z - - ID: 10132, Time: 463s, State: , Info: null
+2024-12-12T03:34:04.825Z - 최대 연결 수 설정: 60
+2024-12-12T03:35:07.160Z - 활성 연결 수: 9
+2024-12-12T03:35:07.166Z - 총 프로세스 수: 10
+2024-12-12T03:35:07.166Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:35:07.166Z - - ID: 5, Time: 1045682s, State: Waiting on empty queue, Info: null
+2024-12-12T03:35:07.166Z - - ID: 10092, Time: 6658s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10105, Time: 4807s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10123, Time: 21s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10124, Time: 69s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10126, Time: 1480s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10128, Time: 970s, State: , Info: null
+2024-12-12T03:35:07.166Z - - ID: 10132, Time: 525s, State: , Info: null
+2024-12-12T03:35:07.173Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:09.404Z - 활성 연결 수: 9
+2024-12-12T03:36:09.411Z - 총 프로세스 수: 10
+2024-12-12T03:36:09.412Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:09.412Z - - ID: 5, Time: 1045744s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:09.412Z - - ID: 10092, Time: 6720s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10105, Time: 4869s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10123, Time: 39s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10124, Time: 131s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10126, Time: 1542s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10128, Time: 1032s, State: , Info: null
+2024-12-12T03:36:09.412Z - - ID: 10132, Time: 587s, State: , Info: null
+2024-12-12T03:36:09.419Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:17.064Z - 데이터베이스 연결 종료
+2024-12-12T03:36:20.240Z - 데이터베이스 연결 성공
+2024-12-12T03:36:20.255Z - 활성 연결 수: 9
+2024-12-12T03:36:20.260Z - 총 프로세스 수: 10
+2024-12-12T03:36:20.261Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:20.261Z - - ID: 5, Time: 1045755s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:20.261Z - - ID: 8, Time: 12s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10092, Time: 6731s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10105, Time: 4880s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10124, Time: 142s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10126, Time: 1553s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10128, Time: 1043s, State: , Info: null
+2024-12-12T03:36:20.261Z - - ID: 10132, Time: 598s, State: , Info: null
+2024-12-12T03:36:20.268Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:20.829Z - 활성 연결 수: 9
+2024-12-12T03:36:20.834Z - 총 프로세스 수: 10
+2024-12-12T03:36:20.834Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:20.834Z - - ID: 5, Time: 1045756s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:20.835Z - - ID: 8, Time: 13s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10092, Time: 6732s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10105, Time: 4881s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10124, Time: 143s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10126, Time: 1554s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10128, Time: 1044s, State: , Info: null
+2024-12-12T03:36:20.835Z - - ID: 10132, Time: 599s, State: , Info: null
+2024-12-12T03:36:20.841Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:21.546Z - 활성 연결 수: 9
+2024-12-12T03:36:21.551Z - 총 프로세스 수: 10
+2024-12-12T03:36:21.551Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:21.551Z - - ID: 5, Time: 1045757s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:21.551Z - - ID: 8, Time: 14s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10092, Time: 6733s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10105, Time: 4882s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10124, Time: 144s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10126, Time: 1555s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10128, Time: 1045s, State: , Info: null
+2024-12-12T03:36:21.551Z - - ID: 10132, Time: 600s, State: , Info: null
+2024-12-12T03:36:21.558Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:24.411Z - 활성 연결 수: 9
+2024-12-12T03:36:24.416Z - 활성 연결 수: 9
+2024-12-12T03:36:24.421Z - 총 프로세스 수: 10
+2024-12-12T03:36:24.421Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:24.422Z - - ID: 5, Time: 1045760s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:24.422Z - - ID: 10092, Time: 6736s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10105, Time: 4885s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10123, Time: 6s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10124, Time: 147s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10126, Time: 1558s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10128, Time: 1048s, State: , Info: null
+2024-12-12T03:36:24.422Z - - ID: 10132, Time: 603s, State: , Info: null
+2024-12-12T03:36:24.426Z - 총 프로세스 수: 10
+2024-12-12T03:36:24.426Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:24.426Z - - ID: 5, Time: 1045760s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:24.426Z - - ID: 10092, Time: 6736s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10105, Time: 4885s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10123, Time: 6s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10124, Time: 147s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10126, Time: 1558s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10128, Time: 1048s, State: , Info: null
+2024-12-12T03:36:24.426Z - - ID: 10132, Time: 603s, State: , Info: null
+2024-12-12T03:36:24.431Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:24.437Z - 최대 연결 수 설정: 60
+2024-12-12T03:36:27.987Z - 활성 연결 수: 9
+2024-12-12T03:36:27.993Z - 총 프로세스 수: 10
+2024-12-12T03:36:27.993Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:36:27.993Z - - ID: 5, Time: 1045763s, State: Waiting on empty queue, Info: null
+2024-12-12T03:36:27.993Z - - ID: 10092, Time: 6739s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10105, Time: 4888s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10123, Time: 9s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10124, Time: 150s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10126, Time: 1561s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10128, Time: 1051s, State: , Info: null
+2024-12-12T03:36:27.993Z - - ID: 10132, Time: 606s, State: , Info: null
+2024-12-12T03:36:28.000Z - 최대 연결 수 설정: 60
+2024-12-12T03:37:22.431Z - 활성 연결 수: 9
+2024-12-12T03:37:22.436Z - 총 프로세스 수: 10
+2024-12-12T03:37:22.437Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:37:22.437Z - - ID: 5, Time: 1045818s, State: Waiting on empty queue, Info: null
+2024-12-12T03:37:22.437Z - - ID: 8, Time: 15s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10092, Time: 6794s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10105, Time: 4943s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10128, Time: 1106s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10132, Time: 661s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10138, Time: 25s, State: , Info: null
+2024-12-12T03:37:22.437Z - - ID: 10139, Time: 20s, State: , Info: null
+2024-12-12T03:37:22.443Z - 최대 연결 수 설정: 60
+2024-12-12T03:37:23.266Z - 활성 연결 수: 9
+2024-12-12T03:37:23.271Z - 총 프로세스 수: 10
+2024-12-12T03:37:23.271Z - 장시간 실행 쿼리 수: 7
+2024-12-12T03:37:23.272Z - - ID: 5, Time: 1045818s, State: Waiting on empty queue, Info: null
+2024-12-12T03:37:23.272Z - - ID: 10092, Time: 6794s, State: , Info: null
+2024-12-12T03:37:23.272Z - - ID: 10105, Time: 4943s, State: , Info: null
+2024-12-12T03:37:23.272Z - - ID: 10128, Time: 1106s, State: , Info: null
+2024-12-12T03:37:23.272Z - - ID: 10132, Time: 661s, State: , Info: null
+2024-12-12T03:37:23.272Z - - ID: 10138, Time: 25s, State: , Info: null
+2024-12-12T03:37:23.272Z - - ID: 10139, Time: 20s, State: , Info: null
+2024-12-12T03:37:23.278Z - 최대 연결 수 설정: 60
+2024-12-12T03:38:24.717Z - 활성 연결 수: 9
+2024-12-12T03:38:24.722Z - 총 프로세스 수: 10
+2024-12-12T03:38:24.723Z - 장시간 실행 쿼리 수: 8
+2024-12-12T03:38:24.723Z - - ID: 5, Time: 1045880s, State: Waiting on empty queue, Info: null
+2024-12-12T03:38:24.723Z - - ID: 10092, Time: 6856s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10105, Time: 5005s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10126, Time: 8s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10128, Time: 1168s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10132, Time: 723s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10138, Time: 87s, State: , Info: null
+2024-12-12T03:38:24.723Z - - ID: 10139, Time: 82s, State: , Info: null
+2024-12-12T03:38:24.729Z - 최대 연결 수 설정: 60
+2024-12-12T03:38:46.700Z - 활성 연결 수: 9
+2024-12-12T03:38:46.708Z - 총 프로세스 수: 10
+2024-12-12T03:38:46.710Z - 장시간 실행 쿼리 수: 9
+2024-12-12T03:38:46.710Z - - ID: 5, Time: 1045901s, State: Waiting on empty queue, Info: null
+2024-12-12T03:38:46.710Z - - ID: 8, Time: 8s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10092, Time: 6877s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10105, Time: 5026s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10126, Time: 29s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10128, Time: 1189s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10132, Time: 744s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10138, Time: 108s, State: , Info: null
+2024-12-12T03:38:46.710Z - - ID: 10139, Time: 103s, State: , Info: null
+2024-12-12T03:38:46.720Z - 최대 연결 수 설정: 60
+2024-12-12T03:39:18.830Z - 데이터베이스 연결 종료

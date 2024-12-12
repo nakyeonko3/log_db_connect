@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Database Connection Monitor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f0f2f5;
+      }
+      .dashboard {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      .status-card {
+        background: white;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .status-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+      }
+      .status-title {
+        font-size: 18px;
+        font-weight: bold;
+      }
+      .status-indicator {
+        padding: 5px 10px;
+        border-radius: 15px;
+        font-size: 14px;
+      }
+      .status-good {
+        background-color: #e6ffe6;
+        color: #006600;
+      }
+      .status-warning {
+        background-color: #fff3e6;
+        color: #995200;
+      }
+      .status-error {
+        background-color: #ffe6e6;
+        color: #cc0000;
+      }
+      .log-container {
+        height: 300px;
+        overflow-y: auto;
+        background: #f8f9fa;
+        padding: 10px;
+        border-radius: 4px;
+        font-family: monospace;
+      }
+      .log-entry {
+        margin: 5px 0;
+        padding: 5px;
+        border-bottom: 1px solid #eee;
+      }
+      .metric-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        margin-bottom: 20px;
+      }
+      .metric-item {
+        background: white;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .metric-value {
+        font-size: 24px;
+        font-weight: bold;
+        color: #2c5282;
+      }
+      .metric-label {
+        color: #666;
+        font-size: 14px;
+        margin-top: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="dashboard">
+      <div class="status-card">
+        <div class="status-header">
+          <h1 class="status-title">Database Connection Monitor</h1>
+          <div id="connection-status" class="status-indicator status-good">
+            Connected
+          </div>
+        </div>
+        <div class="metric-grid">
+          <div class="metric-item">
+            <div class="metric-value" id="active-connections">0</div>
+            <div class="metric-label">Active Connections</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="total-processes">0</div>
+            <div class="metric-label">Total Processes</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="slow-queries">0</div>
+            <div class="metric-label">Slow Queries</div>
+          </div>
+          <div class="metric-item">
+            <div class="metric-value" id="max-connections">0</div>
+            <div class="metric-label">Max Connections</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="status-card">
+        <h2>Connection Logs</h2>
+        <div id="log-container" class="log-container"></div>
+      </div>
+    </div>
+
+    <script>
+      const socket = io();
+
+      function updateStatus(status) {
+        const statusEl = document.getElementById("connection-status");
+        statusEl.className = "status-indicator";
+
+        if (status === "connected") {
+          statusEl.classList.add("status-good");
+          statusEl.textContent = "Connected";
+        } else {
+          statusEl.classList.add("status-error");
+          statusEl.textContent = "Disconnected";
+        }
+      }
+
+      function addLog(message) {
+        const container = document.getElementById("log-container");
+        const entry = document.createElement("div");
+        entry.className = "log-entry";
+        entry.textContent = message;
+        container.insertBefore(entry, container.firstChild);
+
+        // 최대 100개의 로그만 유지
+        while (container.children.length > 100) {
+          container.removeChild(container.lastChild);
+        }
+      }
+
+      socket.on("db-status", (data) => {
+        document.getElementById("active-connections").textContent =
+          data.activeConnections;
+        document.getElementById("total-processes").textContent =
+          data.totalProcesses;
+        document.getElementById("slow-queries").textContent = data.slowQueries;
+        document.getElementById("max-connections").textContent =
+          data.maxConnections;
+        updateStatus(data.status);
+      });
+
+      socket.on("db-log", (message) => {
+        addLog(message);
+      });
+    </script>
+  </body>
+</html>
