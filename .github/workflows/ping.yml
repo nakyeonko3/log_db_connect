@@ -1,7 +1,7 @@
 # .github/workflows/ping.yml
 name: Ping Server
 
-on:
+#on:
   schedule:
     - cron: '*/14 * * * *'  # 14분마다
 
@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping render server
-        run: curl https://api.popomance.kr/workspace/projects
+   #     run: curl https://api.popomance.kr/workspace/projects
